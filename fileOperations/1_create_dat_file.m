@@ -1,4 +1,4 @@
-% %% dat dosyasi olusturma
+%% create dat file
 clear;
 clc;
 M = [3; 5 ;11; 2; 4; 5];
